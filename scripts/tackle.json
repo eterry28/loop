@@ -1,0 +1,32 @@
+{
+	"tackle" : {
+		"id" : 0,
+		"description" : "This is the tackle description.",
+		"message" : "You wish to tackle.",
+	},
+	"noncombat" :{
+		"id" : 1,
+		"description" :"tackle_noncombat",
+		"message" : "You are not in combat."
+	},
+	"damage" : {
+		"id" : 2,
+		"description" : "tackle_damage",
+		"message" : "You tackle your opponent for $[1] damage, and they stagger heavily."
+	},
+	"recover" :{
+		"id" : 3,
+		"description" : "tackle_recover",
+		"message" : "Your opponent gathers their composure."
+	},
+	"cooldown" : {
+		"id" : 4,
+		"description" : "tackle_cooldown",
+		"message" : "You cannot use that skill yet."
+	},
+	"cooldown_end" : {
+		"id" : 5,
+		"description" : "tackle_cooldown_end",
+		"message" : "You can use tackle again."
+	}
+}

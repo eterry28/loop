@@ -1,0 +1,56 @@
+{
+    "itemId": "730",
+    "itemClass": "638243112",
+    "displayName": "143865972",
+    "description": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOie_rKgE11qGeKGgbu4mwxNePwvLyMb2BxG9UsZcm3uyY992l3AWyrUI6MHezetH9OW2oyQ",
+    "usageCount": "",
+    "usagePeriod": "Operation Vanguard Case Key",
+    "usagePeriodGroup": "Operation Vanguard Case Key",
+    "stackable": "Operation Vanguard Case Key",
+    "tradable": "D2D2D2",
+    "background_color": "",
+    "type": "Base Grade Key",
+    "tradable": 1,
+    "marketable": 1,
+    "commodity": 1,
+    "market_tradable_restriction": "7",
+    "descriptions": [
+        {
+            "type": "html",
+            "value": "This key only opens Operation Vanguard Cases"
+        },
+        {
+            "type": "html",
+            "value": " "
+        },
+        {
+            "type": "html",
+            "value": "",
+            "color": "00a000",
+            "app_data": {
+                "limited": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "internal_name": "CSGO_Tool_WeaponCase_KeyTag",
+            "name": "Key",
+            "category": "Type",
+            "category_name": "Type"
+        },
+        {
+            "internal_name": "normal",
+            "name": "Normal",
+            "category": "Quality",
+            "category_name": "Category"
+        },
+        {
+            "internal_name": "Rarity_Common",
+            "name": "Base Grade",
+            "category": "Rarity",
+            "color": "b0c3d9",
+            "category_name": "Quality"
+        }
+    ]
+},

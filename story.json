@@ -1,0 +1,16 @@
+{
+    "story" : {
+        "steps" : [
+            {
+                "id" : 0,
+		        "npc" : "Joe",
+                "message" : "This is for Joe."
+            },
+            {
+		        "id" : 1,
+		        "npc" :"Jack",
+		        "message" : "This is for Jack."
+	        }
+        ]
+    }
+}

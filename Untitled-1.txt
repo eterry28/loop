@@ -1,0 +1,79 @@
+
+Tropico: "Viva, El Presidente!!"
+Review By: Eric Terry
+PopTop Software has delivered exactly what players of Maxis' 'SimCity' have wanted since the series started an insight to the citizens' wants and needs. "Tropico" is a perfect blend between 'The Sims' and 'SimCity'. Sure it�s nice to have a bar graph indicating that more residential areas and less industrial zones are needed. Why stop there?
+http://www.gameport.com/reviews/tropico.html
+
+Max Payne: "Bringin' the Payne"
+Review By: Eric Terry
+Max Payne is a story-driven 3rd person action game aimed for a mature audience. Two camera modes show the grim present day New York City setting and the gunplay action from the best possible angles. The follow-up mode tails Max Payne, as he runs, his guns blazing and his long leather jacket flapping, through trash littered alleys and cockroach crawling hotel rooms. The cinematic camera provides "director's cut" pre-set views to dramatic scenes, be it in a deep-shadowed slum, or in an all sleek and sexy art deco skyscraper.
+http://www.gameport.com/reviews/maxpayne.html
+
+Madden 2002 NFL: "Madden Madness"
+Review By: Eric Terry
+Complete with all 31 NFL teams and legendary teams of years past, Madden NFL 2002 delivers the unparalleled heart-felt emotion and hard-hitting action of the NFL. Taking you beyond broadcast, Madden NFL 2002 lets you play in Exhibition, Season, Playoff, Two-Minute Drill, and Tournament modes. Or play in Franchise mode, where you take complete control of the team in your quest for NFL glory. Madden NFL 2002 brings the real NFL to your fingertips.
+http://www.gameport.com/reviews/madden2002.html
+
+
+http://www.80s.com/JediQuizIndex.html
+
+http://www.80s.com/binladen/
+
+
+
+
+
+PW
+EAABtESJZArmoBAJOnbOMhSI0L4fgTtkQzxqdcuZAZAwQwfwq7tOApeLXi1T4Fq6ZCqTAyi0hAxKumNKIkZAaLsp3rEikXPnTvDAo7qqNrREyfRsH01sTYDUNnh0apZAEDdbwQwPZAxZAIUZCZAz4p33ikr3M76LoYrrzSsS67Ypv5dewZDZD 
+
+2.0
+EAAY0lpVZAUc0BAMM1vM6uWXZBNuydqTkJ2q2kAZAXQFGZAZAcZBqQZCmZBsZAOBoO4TZACNj1eVXNYIerRloS61igm5wytRXO4utuSHi9f47LTJebnyJzpZBJh5gzPJXUb9gwjcaFJ7GTAaht7nKJHSEzTe0Q8QYvBiIBjZAg8lwUvhitzZCNdjkncyfN
+
+
+
+
+http://inttfsweba.intouchsol.com:8080/tfs/IntouchProduct/SocialQueue/_dashboards
+
+https://www.facebook.com/BrownTowelSoc/posts/1644177975657058?comment_id=1644189035655952
+
+
+
+
+
+Add a new form data type - TypeDropDownList
+  We will then use the label and value
+
+
+Give this to Kit to work out
+•	Some processed records are showing up with Associated Posts that say Unavailable. 
+o	Also—processed DM’s are not showing the entire conversation string in associated posts. Example: https://www.socialqueue.com/Activity/Qualify/200/3940972
+
+
+Add a TopLevelParent column to the export
+
+Add TopLevelParent text column to the export - bad idea
+
+Pull photo query and put that in dev so we can compare photos from the feed edge.
+
+We need the ability to edit manual entry post
+
+Add a notes column to the data grid
+
+Add activity id to left side filter
+
+Exports taking a long time. Sometimes an export will time out.
+
+
+
+
+
+
+
+https://mcpl.overdrive.com/search?query=Ready+Player+One
+
+
+
+Threat Modeling: Designing for Security
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition
+
+
